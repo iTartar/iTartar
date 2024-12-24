@@ -1,5 +1,5 @@
 # 💫 About Me:
-• 🎭 I'm someone who enjoys creating small projects that might be useful for others, and I'm not really a programming enthusiast. All these <br>         projects are just for having fun.<br>• 💻 Experience revolves around Python and Laravel.<br>
+• 🎭 I'm someone who enjoys creating small projects that might be useful for others, and I'm not really a programming enthusiast. All these projects are just for having fun. <br> • 💻 Experience revolves around Python and Laravel.<br>
 
 
 ## 🌐 Socials:
